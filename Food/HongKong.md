@@ -23,7 +23,7 @@
 ### 📍 銅鑼灣站 Causeway Bay
 
 #### 🍜 三才魚蛋粉
-- 📌 地址：[銅鑼灣敬誠街44號宏豐大廈地下六號舖](https://www.google.com/maps/search/?api=1&query=銅鑼灣敬誠街44號宏豐大廈地下六號舖)
+- 📌 地址：[號 地下 六 號 舖, The Grandeur, 44 Jardine's Cres, Causeway Bay, Hong Kong](https://maps.app.goo.gl/dVPhKQAqhbDzM8gC6)
 - ⭐ 招牌：手打魚蛋粉
 
 #### 🍜 麵家
@@ -45,17 +45,17 @@
 ### 📍 北角站 North Point
 
 #### 🍜 人人和平
-- 📌 地址：[北角炮台街6-8號A舖](https://www.google.com/maps/search/?api=1&query=北角炮台街6-8號A舖)
+- 📌 地址：[北角炮台街6-8號A舖](https://maps.app.goo.gl/m9Vc6hvEDyWuU4Xq6)
 - ⭐ 招牌：雲吞麵、牛腩河粉
 - 🥄 平價快食、地道湯底
 
 #### 🍜 道生麵館
-- 📌 地址：[北角電氣道254號地下K號舖](https://www.google.com/maps/search/?api=1&query=北角電氣道254號地下K號舖)
+- 📌 地址：[北角電氣道254號地下K號舖](https://maps.app.goo.gl/Gs855fuMy62pRFwv6)
 - ⭐ 招牌：牛腩麵（特別部位切法）、牛筋
 - 🥄 湯底鮮濃、牛腩部位刁鑽，是牛腩愛好者的必試之選。
 
 #### 🥢 店小二
-- 📌 地址：[北角七姊妹道14號地下A號舖](https://www.google.com/maps/search/?api=1&query=北角七姊妹道14號地下A號舖)
+- 📌 地址：[北角七姊妹道14號地下A號舖](https://maps.app.goo.gl/8Jp4CpDMRzeyfFTC7)
 - ⭐ 招牌：港式小炒
 - 🥄 環境熱鬧、菜色夠鑊氣而不油膩。
 
@@ -99,17 +99,17 @@
 - ⭐ 招牌：煲仔飯／燒味／港式粉麵
 
 #### 🍛 新景園咖喱小廚
-- 📌 地址：[灣仔春園街20號地舖](https://www.google.com/maps/search/?api=1&query=灣仔春園街20號地舖)
+- 📌 地址：[灣仔春園街20號地舖](https://maps.app.goo.gl/Yzt1c95ow6iDB2vQ9)
 - ⭐ 招牌：乾炒牛河、咖哩豬扒飯（豬扒超嫩）
 - 🥄 港式茶餐廳經典，大份惹味。
 
 #### 🍖 發達叉燒 by 鋒膳 (FAT J Char Siu by Flower Drum)
-- 📌 地址：[灣仔蘭杜街2號麗都大廈地下2號舖](https://www.google.com/maps/search/?api=1&query=灣仔蘭杜街2號麗都大廈地下2號舖)
+- 📌 地址：[灣仔蘭杜街2號麗都大廈地下2號舖](https://maps.app.goo.gl/XFEsSo68Lwfo6YT6A)
 - ⭐ 招牌：發達叉燒
 - 🥄 口號是「生舊叉燒好過生你」，可見對自家出品的信心。
 
 #### ☕ 德如茶餐廳
-- 📌 地址：[灣仔進教圍17-18號地下](https://www.google.com/maps/search/?api=1&query=灣仔進教圍17-18號地下)
+- 📌 地址：[灣仔進教圍17-18號地下](https://maps.app.goo.gl/1K6YbygGJs59qrik9)
 - ⭐ 招牌：咸牛肉蛋治、椒鹽豬扒飯
 - 🥄 保留綠色鐵皮茶檔風格，充滿人情味的茶餐廳。
 
@@ -179,6 +179,18 @@
 
 ### 📍 深水埗站 Sham Shui Po
 
+#### 🥪 新香園（堅記）(the real one)
+
+- 📌 地址：[深水埗桂林街38號A地下](https://maps.app.goo.gl/59mqCSkJ42tSeUYEA)
+    
+- ☎️ 電話：+852 2386 2748
+    
+- 🕒 營業時間：06:30–20:00（原為24小時營業）
+    
+- ⭐ 招牌：馳名蛋牛治（可改滑蛋）、香滑奶茶、紅豆冰、菠蘿冰、西多士、南乳豬手麵
+    
+- 🥄 開業於1968年的老字號茶餐廳，使用新鮮牛肉炒製而非罐頭，滑蛋牛肉治可烘底、滑嫩不乾。奶茶濃郁順滑，早上用餐常見在地人與熟客，充滿人情味。
+    
 #### 🥟 得閒飲茶 (Let’s Yum Cha)
 - 📌 地址：[深水埗福榮街116-118號地舖](https://www.google.com/maps/search/?api=1&query=深水埗福榮街116-118號地舖)
 - ⭐ 招牌：蝦餃王、創意腸粉、千島醬蘿蔔糕
